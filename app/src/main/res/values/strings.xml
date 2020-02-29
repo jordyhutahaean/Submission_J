@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gacha Games</string>
+    <string name="detail">Details</string>
+    <string name="chara_name">Gacha Games</string>
+    <string name="about">About</string>
+
+    <string name="fgo_details">Fate/Grand Order</string>
+    <string name="fgo_publisher">Aniplex Inc.</string>
+    <string name="fgo_description">
+        In 2016, the human race was supposed to be exterminated by an unknown cause. You will become the Master of Chaldea, an organization in which sole purpose is to ensure  the survival of human.
+    </string>
+</resources>
